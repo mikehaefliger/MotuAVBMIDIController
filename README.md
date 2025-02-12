@@ -16,10 +16,9 @@ Control the Motu AVB mixing console with any MIDI controller. The translation fr
 
 – MIDI Controller
 
-Please note, this configuration is ideal for my personal studio setup. Feel free to make any changes for your own setup.
-
 
 # Instructions
+**Please note, this configuration is ideal for my personal studio setup. Feel free to make any changes for your own setup.**
 1. Connect Motu AVB Interface via Ethernet
 2. Ensure PD-Device and Motu Interface have a valid IP address
 3. Setup Pure Data MIDI-Settings
