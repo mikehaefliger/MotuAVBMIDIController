@@ -21,7 +21,7 @@ Please note, this configuration is ideal for my personal studio setup. Feel free
 
 # Instructions
 1. Connect Motu AVB Interface via Ethernet
-2. Ensure PD-Device and Motu Interface receive an IP
+2. Ensure PD-Device and Motu Interface have a valid IP address
 3. Setup Pure Data MIDI-Settings
 4. Open lp32-avb.pd file in Pure Data
 5. Change "connect lp32.local 9998" with the IP from your Motu interface
