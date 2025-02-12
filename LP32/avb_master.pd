@@ -1,4 +1,4 @@
-#N canvas 698 225 831 774 10;
+#N canvas 1635 224 831 774 10;
 #X obj 278 355 ctlout;
 #X obj 278 75 r midi_ch;
 #X obj 278 101 midicc_inlet;

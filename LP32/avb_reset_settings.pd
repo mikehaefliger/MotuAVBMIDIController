@@ -1,4 +1,4 @@
-#N canvas 942 124 870 737 12;
+#N canvas 1886 110 870 737 12;
 #X text 47 93 Level;
 #X obj 49 752 r reset;
 #X text 82 840 Reset value;
