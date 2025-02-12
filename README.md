@@ -1,6 +1,6 @@
 # Motu AVB MIDI Controller
 
-Control the Motu AVB mixing console with any MIDI controller. The translation from CC to OSC is created with the help of Pure Data and is a one-way connection. Nevertheless, MIDI-CC connections are capable of establishing a complete two-way connection for recall functions. An autosave function saves the main patch and the subpatches every 30 seconds.
+Control the Motu AVB mixing console with any MIDI controller. The translation from CC to OSC is created with the help of Pure Data and is a one-way connection. Nevertheless, MIDI CCs are establishing a complete two-way connection for recall functions. An autosave function saves the main patch and the subpatches every 30 seconds.
 
 **Tested with**
 - Motu LP32
