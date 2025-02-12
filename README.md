@@ -3,20 +3,14 @@
 Control the Motu AVB mixing console with any MIDI controller. The translation from CC to OSC is created with the help of Pure Data and is a one-way connection. Nevertheless, MIDI-CC connections are capable of establishing a complete two-way connection for recall functions. An autosave function saves the main patch and the subpatches every 30 seconds.
 
 **Tested with**
-
-– Motu LP32
-
-– RaspberryPi 3 Model B+ with PD installed
-
-– Electra One MkII v3.6.1
+- Motu LP32
+- RaspberryPi 3 Model B+ with PD installed
+- Electra One MkII v3.6.1
 
 **Requirements**
-
-– Any Motu AVB Interface with Mixing Console
-
-– Pure Data (PD 0.55.2)
-
-– MIDI Controller
+- Any Motu AVB Interface with Mixing Console
+- Pure Data (PD 0.55.2)
+- MIDI Controller
 
 
 ## Instructions
