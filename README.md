@@ -12,13 +12,14 @@ Control the Motu AVB mixing console with any MIDI controller. The translation fr
 - Pure Data (PD 0.55.2)
 - MIDI Controller
 
+> Please note, this configuration is ideal for my personal studio setup.
+
 # Instructions
-> Please note, this configuration is ideal for my personal studio setup. Feel free to make any changes for your own setup.
 1. Connect Motu AVB Interface via Ethernet
 2. Ensure PD-Device and Motu Interface have a valid IP address
 3. Setup Pure Data MIDI-Settings
-4. Open lp32-avb.pd file in Pure Data
+4. Open "lp32-avb.pd" file in Pure Data
 5. Change "connect lp32.local 9998" with the IP from your Motu interface
-6. Change MIDI Settings (MIDI Channel and CC#) in the subpatch avb_midi_settings
+6. Change MIDI Settings (MIDI Channel and CC#) in the subpatch "avb_midi_settings"
 
 Except for reverb and main mix, all mixing channels share the same MIDI CC numbers. Use the channel selector to change the individual channels (MIDI CC#20, Value 1-18).
