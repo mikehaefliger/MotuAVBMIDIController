@@ -4,7 +4,7 @@ Control the Motu AVB mixing console with any MIDI controller. The translation fr
 
 **Tested with**
 - Motu LP32
-- RaspberryPi 3 Model B+ with PD v0.55-2
+- RaspberryPi 3 Model B+ with Pd v0.55-2
 - Electra One MkII v3.6.1
 
 **Requirements**
@@ -14,7 +14,7 @@ Control the Motu AVB mixing console with any MIDI controller. The translation fr
 
 # Instructions
 1. Connect Motu AVB Interface via Ethernet
-2. Ensure PD-Device and Motu Interface have a valid IP address
+2. Ensure Pd-Device and Motu Interface have a valid IP address
 3. Setup Pure Data MIDI-Settings
 4. Open "lp32-avb.pd" file in Pure Data
 5. Change "connect lp32.local 9998" with the IP from your Motu interface
