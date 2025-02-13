@@ -4,12 +4,12 @@ Control the Motu AVB mixing console with any MIDI controller. The translation fr
 
 **Tested with**
 - Motu LP32
-- RaspberryPi 3 Model B+ with PD installed
+- RaspberryPi 3 Model B+ with PD v0.55-2
 - Electra One MkII v3.6.1
 
 **Requirements**
 - Any Motu AVB Interface with Mixing Console
-- Pure Data (PD 0.55.2)
+- Pure Data
 - MIDI Controller
 
 # Instructions
